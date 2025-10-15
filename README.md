@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/22935919/readme.md)
 # 👨‍💻 Thiago Barbosa
 
 **`🚀 Analista & Cientista de Dados em Formação`**
@@ -12,10 +11,9 @@ Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dado
 ## 💡 Metas de Aprendizado
 
 - 🎯 Foco em **Data Science** e **Business Intelligence**
-- 🔭 Atualmente trabalhando em projetos de **Machine       Learning**
+- 🔭 Atualmente trabalhando em projetos de **Machine Learning**
 - 🌱 Aprendendo mais sobre **Engenharia de Dados** e **MLOps**
 - 👯 Procurando colaborar em **projetos open source** de dados
-
 
 ## 🛠️ Habilidades & Interesses
 
@@ -42,29 +40,20 @@ Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dado
 - 📈 Estatística & Matemática
 - ⚙️ Engenharia de Dados
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="250" 
-    style="padding-right: 10px; margin-bottom: 20px; display: block;" 
-    src="https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-<img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="250" 
-    style="display: block;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
   />
-
-</div>
+</p>
 
 ---
 
@@ -72,18 +61,19 @@ Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dado
 
 **Disponível para colaborar em** projetos desafiadores de Data Science, Analytics e Engenharia de Dados.
 
-_Vamos construir o futuro com dados? Sinta-se à vontade para entrar em contato!_
+*Vamos construir o futuro com dados? Sinta-se à vontade para entrar em contato!*
 
 <p align="left">
   <a href="https://www.instagram.com/barbosamthiago/">
-    <img alt="instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/thiagomacielbarbosa">
-    <img alt="linkedin" title="Conecte-se no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/thiagomacielbarbosa?tab=followers">
-    <img alt="seguidores github" title="Seguidores no GitHub" src="https://img.shields.io/github/followers/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Seguidores&color=FFD700"/></a>
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Seguidores&color=FFD700"/>
+  </a>
   <a href="https://github.com/thiagomacielbarbosa?tab=repositories&sort=stargazers">
-    <img alt="estrelas github" title="Estrelas no GitHub" src="https://img.shields.io/github/stars/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Estrelas&color=238636"/></a>
+    <img alt="Estrelas" src="https://img.shields.io/github/stars/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Estrelas&color=238636"/>
+  </a>
 </p>
-
-
-</div>
