@@ -1,16 +1,89 @@
-## Hi there 👋
+[readme.md](https://github.com/user-attachments/files/22935919/readme.md)
+# 👨‍💻 Thiago Barbosa
 
-<!--
-**thiagomacielbarbosa/thiagomacielbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`🚀 Analista & Cientista de Dados em Formação`**
 
-Here are some ideas to get you started:
+Formado em **Análise e Desenvolvimento de Sistemas** e atualmente especializando-me em **Ciência de Dados e Analytics** | PUC-Rio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dados, onde busco transformar informações complexas em soluções práticas e acionáveis. Para isso, mantenho um aprendizado ativo por meio de plataformas como **DIO**, **AlexLage School**, **Eduliv** e **Udemy** entre outros.
+
+---
+
+## 💡 Metas de Aprendizado
+
+- 🎯 Foco em **Data Science** e **Business Intelligence**
+- 🔭 Atualmente trabalhando em projetos de **Machine       Learning**
+- 🌱 Aprendendo mais sobre **Engenharia de Dados** e **MLOps**
+- 👯 Procurando colaborar em **projetos open source** de dados
+
+
+## 🛠️ Habilidades & Interesses
+
+### **Linguagens de Programação:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Ferramentas & Tecnologias:**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## **Domínios:**
+
+- 📊 Análise de Dados & Visualização
+- 🤖 Machine Learning & IA
+- 📈 Estatística & Matemática
+- ⚙️ Engenharia de Dados
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="250" 
+    style="padding-right: 10px; margin-bottom: 20px; display: block;" 
+    src="https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+    align="left" 
+    alt="Linguagens Mais Usadas" 
+    height="250" 
+    style="display: block;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+  />
+
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+**Disponível para colaborar em** projetos desafiadores de Data Science, Analytics e Engenharia de Dados.
+
+_Vamos construir o futuro com dados? Sinta-se à vontade para entrar em contato!_
+
+<p align="left">
+  <a href="https://www.instagram.com/barbosamthiago/">
+    <img alt="instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/thiagomacielbarbosa">
+    <img alt="linkedin" title="Conecte-se no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thiagomacielbarbosa?tab=followers">
+    <img alt="seguidores github" title="Seguidores no GitHub" src="https://img.shields.io/github/followers/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Seguidores&color=FFD700"/></a>
+  <a href="https://github.com/thiagomacielbarbosa?tab=repositories&sort=stargazers">
+    <img alt="estrelas github" title="Estrelas no GitHub" src="https://img.shields.io/github/stars/thiagomacielbarbosa?style=for-the-badge&logo=github&label=Estrelas&color=238636"/></a>
+</p>
+
+
+</div>
