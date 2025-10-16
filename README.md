@@ -4,7 +4,7 @@
 
 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente especializando-me em **Ciência de Dados e Analytics** | PUC-Rio.
 
-Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dados, onde busco transformar informações complexas em soluções práticas e acionáveis. Para isso, mantenho um aprendizado ativo por meio de plataformas como **DIO**, **AlexLage School**, **Eduliv** e **Udemy** entre outros.
+Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dados, onde busco transformar informações complexas em soluções práticas e acionáveis. Para isso, mantenho um aprendizado ativo por meio de plataformas como **DIO**, **AlexLage School**, **Eduliv**, **Udemy** entre outros.
 
 ---
 
