@@ -39,6 +39,7 @@ Com uma paixão natural por tecnologia, direcionei meu foco para o campo de dado
 - 🤖 Machine Learning & IA
 - 📈 Estatística & Matemática
 - ⚙️ Engenharia de Dados
+- 🎲 Banco de Dados
 
 ---
 
