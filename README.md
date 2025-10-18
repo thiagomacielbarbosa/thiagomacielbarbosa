@@ -1,6 +1,6 @@
 # 👨‍💻 Thiago Barbosa
 
-**`🚀 Analista & Cientista de Dados em Formação`**
+**`🚀 Profissional de Dados em Formação | Visão Full-Stack `**
 
 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente especializando-me em **Ciência de Dados e Analytics** | PUC-Rio.
 
