@@ -10,7 +10,7 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 
 ## 💡 Metas de Aprendizado
 
-- 🎯 Foco em aprender sobre, **Engenharia de Dados**, **Banco de Dados** e **MLOps**
+- 🎯 Foco em aprender sobre: **Engenharia de Dados**, **Banco de Dados** e **MLOps**
 - 🔭 Atualmente trabalhando em projetos de **Machine Learning**
 - 🌱 Aprendendo mais sobre **Data Science** e **Business Intelligence**
 - 👯 Procurando colaborar em **projetos open source** de dados
