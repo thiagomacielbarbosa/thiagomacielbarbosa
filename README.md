@@ -40,6 +40,7 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-FF602C?style=for-the-badge&logo=delta&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-2A2D72?style=for-the-badge&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&color=8A2BE2)
+![Seaborn](https://img.shields.io/badge/Seaborn-7F3CFF?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
