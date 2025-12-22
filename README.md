@@ -23,7 +23,7 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Ferramentas & Tecnologias:**
+### **Ferramentas & Frameworks:**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,6 +38,7 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-FF602C?style=for-the-badge&logo=delta&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-2A2D72?style=for-the-badge&logoColor=white)
 
 
 ---
