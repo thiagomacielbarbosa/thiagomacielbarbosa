@@ -41,7 +41,8 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 ![ETL](https://img.shields.io/badge/ETL-2A2D72?style=for-the-badge&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&color=8A2BE2)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7F3CFF?style=for-the-badge&logo=python&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
