@@ -59,31 +59,10 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 ## 📊 Estatísticas do GitHub
 
 
-<div align="center">
-
-<picture>
-  <!-- Dark theme -->
-  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github
-  <!-- Light theme -->
-  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=default&count_private=true&hide_border=true&rank_icon=github
-  <!-- Fallback -->
-  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&count_private=true&hide_border=true&rank_icon=github
-</picture>
-
-<picture>
-  <!-- Dark theme -->
-  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&langs_count=8&hide_border=true
-  <!-- Light theme -->
-  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=default&layout=compact&langs_count=8&hide_border=true
-  <!-- Fallback -->
-  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&layout=compact&langs_count=8&hide_border=true
-</picture>
-
-</div>
-
-
-
-
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img 
+    src="https://streak-stats.demolab.com/?user=thiagomacielbarbosa&theme=tokyonight&hide_border=true"
+    style="max-width: 100%; border-radius: 10
 
 ---
 
