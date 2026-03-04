@@ -63,14 +63,19 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
   <img 
     src="https://streak-stats.demolab.com/?user=thiagomacielbarbosa&theme=tokyonight&hide_border=true"
     style="max-width: 100%; border-radius: 10
+    
 
 ---
+
+
 
 ## 🤝 Vamos Conectar!
 
 **Disponível para colaborar em** projetos desafiadores de Data Science, Analytics e Engenharia de Dados.
 
 *Vamos construir o futuro com dados? Sinta-se à vontade para entrar em contato!*
+
+
 
 <p align="left">
   <a href="https://www.instagram.com/barbosamthiago/">
