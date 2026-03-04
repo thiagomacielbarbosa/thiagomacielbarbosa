@@ -57,9 +57,7 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  https://streak-stats.demolab.com/?user=thiagomacielbarbosa&theme=tokyonight&hide_border=true
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=thiagomacielbarbosa&theme=tokyonight&hide_border=true)
 
 ---
 
