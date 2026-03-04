@@ -58,16 +58,32 @@ Tenho paixão natural por tecnologia e direcionei meu foco para o campo de dados
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
-  />
-</p>
+
+<div align="center">
+
+<picture>
+  <!-- Dark theme -->
+  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github
+  <!-- Light theme -->
+  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&theme=default&count_private=true&hide_border=true&rank_icon=github
+  <!-- Fallback -->
+  https://github-readme-stats.vercel.app/api?username=thiagomacielbarbosa&show_icons=true&count_private=true&hide_border=true&rank_icon=github
+</picture>
+
+<picture>
+  <!-- Dark theme -->
+  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=tokyonight&layout=compact&langs_count=8&hide_border=true
+  <!-- Light theme -->
+  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&theme=default&layout=compact&langs_count=8&hide_border=true
+  <!-- Fallback -->
+  https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomacielbarbosa&layout=compact&langs_count=8&hide_border=true
+</picture>
+
+</div>
+
+
+
+
 
 ---
 
